@@ -1,0 +1,47 @@
+# IC-2K25-24 – DSA LAB
+
+**Student Name:** Chetan Karanjiya  
+**Roll Number:** IC-2K25-24  
+**Subject:** Data Structures and Algorithms (DSA)
+
+## Topics Covered
+
+### 1. Arrays
+- Array traversal, insertion and deletion
+- Searching and sorting
+
+### 2. Linked Lists
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+- Insertion, deletion and traversal
+
+### 3. Stack
+- Stack implementation
+- Push, Pop and Peek operations
+
+### 4. Queue
+- Linear Queue
+- Circular Queue
+- Enqueue and Dequeue operations
+
+### 5. Trees
+- Binary Trees
+- Binary Search Trees (BST)
+- BST insertion, deletion and searching
+- Tree traversals
+- Balanced BST concepts
+
+### 6. Graphs
+- Graph representation
+- Adjacency Matrix and Adjacency List
+- BFS and DFS traversal
+
+## Language Used
+- C++
+
+## Objective
+To understand and implement different data structures and algorithms through practical programming.
+
+## Conclusion
+This lab provides practical experience in data structures, algorithm implementation and problem-solving using C++.
